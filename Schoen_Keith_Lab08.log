@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.13)  30 MAR 2026 10:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.13)  30 MAR 2026 10:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -226,8 +226,7 @@ Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 ) (C:\Users\kasch\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count306
-)
-No file Schoen_Keith_Lab08.aux.
+) (Schoen_Keith_Lab08.aux)
 \openout1 = `Schoen_Keith_Lab08.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
@@ -244,6 +243,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -297,29 +297,18 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\kasch\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
+<images/logo.png, id=1, 1121.28pt x 1121.28pt>
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 45.
+(pdftex.def)             Requested size: 164.41711pt x 164.40358pt.
+ [1
 
-LaTeX Warning: File `logo.png' not found on input line 45.
-
-
-c:/Users/kasch/OneDrive/Desktop/Spring26/Defense/Lab08/Schoen_Keith_Lab08.tex:45: Package pdftex.def Error: File `logo.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.45 ...degraphics[width=0.35\textwidth]{logo.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[1
-
-{C:/Users/kasch/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-No file Schoen_Keith_Lab08.toc.
+{C:/Users/kasch/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/logo.png>] (Schoen_Keith_Lab08.toc)
 \tf@toc=\write3
 \openout3 = `Schoen_Keith_Lab08.toc'.
 
-[1]
+ [1]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -336,17 +325,17 @@ L3 programming layer <2025-10-24>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4632 strings out of 467871
- 70629 string characters out of 5418375
- 483149 words of memory out of 5000000
- 33482 multiletter control sequences out of 15000+600000
- 630352 words of font info for 49 fonts, out of 8000000 for 9000
+ 4612 strings out of 467871
+ 70476 string characters out of 5418375
+ 483140 words of memory out of 5000000
+ 33459 multiletter control sequences out of 15000+600000
+ 630183 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,11n,65p,289b,295s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/kasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/kasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/kasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/kasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Schoen_Keith_Lab08.pdf (3 pages, 43836 bytes).
+<C:/Users/kasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/kasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/kasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Schoen_Keith_Lab08.pdf (3 pages, 166879 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
+ 30 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
