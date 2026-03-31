@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.13)  30 MAR 2026 10:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.13)  30 MAR 2026 20:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -304,11 +304,25 @@ Package pdftex.def Info: images/logo.png  used on input line 45.
 (pdftex.def)             Requested size: 164.41711pt x 164.40358pt.
  [1
 
-{C:/Users/kasch/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/logo.png>] (Schoen_Keith_Lab08.toc)
+{C:/Users/kasch/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/logo.png>] (Schoen_Keith_Lab08.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+ (C:\Users\kasch\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+ (C:\Users\kasch\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 \tf@toc=\write3
 \openout3 = `Schoen_Keith_Lab08.toc'.
 
  [1]
+<images/d1.1.png, id=13, 502.87875pt x 363.60844pt>
+File: images/d1.1.png Graphic file (type png)
+<use images/d1.1.png>
+Package pdftex.def Info: images/d1.1.png  used on input line 77.
+(pdftex.def)             Requested size: 469.75502pt x 339.65591pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -318,24 +332,125 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1
 
-] (Schoen_Keith_Lab08.aux)
+ <./images/d1.1.png>]
+<images/d2.1.png, id=19, 499.49109pt x 364.36125pt>
+File: images/d2.1.png Graphic file (type png)
+<use images/d2.1.png>
+Package pdftex.def Info: images/d2.1.png  used on input line 87.
+(pdftex.def)             Requested size: 446.26582pt x 325.5481pt.
+
+Overfull \hbox (5.8855pt too wide) in paragraph at lines 87--89
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2 <./images/d2.1.png>]
+<images/d2.2.png, id=27, 504.00797pt x 390.70969pt>
+File: images/d2.2.png Graphic file (type png)
+<use images/d2.2.png>
+Package pdftex.def Info: images/d2.2.png  used on input line 95.
+(pdftex.def)             Requested size: 446.26582pt x 345.94795pt.
+
+Overfull \hbox (5.8855pt too wide) in paragraph at lines 95--97
+[][] 
+ []
+
+
+Overfull \hbox (0.9107pt too wide) in paragraph at lines 102--103
+[]\OT1/cmr/bx/n/12 alert tcp any any -$\OML/cmm/m/it/12 >$ \TS1/cmr/bx/n/12 $\OT1/cmr/bx/n/12 HOME$[]$NET 80 (msg:"SQL IN-JEC-TION DE-TECTED
+ []
+
+
+Overfull \hbox (87.54465pt too wide) in paragraph at lines 102--103
+\OT1/cmr/bx/n/12 - SQL Key-word Found"; flow:to$[]$server,established; pcre:"/SELECT|UNION|DROP/i";
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3 <./images/d2.2.png>]
+<images/d2.3.png, id=32, 499.49109pt x 95.6072pt>
+File: images/d2.3.png Graphic file (type png)
+<use images/d2.3.png>
+Package pdftex.def Info: images/d2.3.png  used on input line 103.
+(pdftex.def)             Requested size: 446.26582pt x 85.42273pt.
+
+Overfull \hbox (5.8855pt too wide) in paragraph at lines 103--105
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4 <./images/d2.3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 111--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--131
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 152--156
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7] (Schoen_Keith_Lab08.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-10-24>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4612 strings out of 467871
- 70476 string characters out of 5418375
- 483140 words of memory out of 5000000
- 33459 multiletter control sequences out of 15000+600000
- 630183 words of font info for 48 fonts, out of 8000000 for 9000
+ 4701 strings out of 467871
+ 72077 string characters out of 5418375
+ 495199 words of memory out of 5000000
+ 33527 multiletter control sequences out of 15000+600000
+ 635515 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,289b,295s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/kasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/kasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/kasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Schoen_Keith_Lab08.pdf (3 pages, 166879 bytes).
+ 57i,11n,69p,845b,414s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\kasch\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1200.pk> <C:\Users\kasch\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/kasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/kasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/kasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/kasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Schoen_Keith_Lab08.pdf (9 pages, 698438 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
+ 74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

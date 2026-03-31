@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}Install and Configure Snort}{1}{}%
+\contentsline {section}{\numberline {2}Writing Detection Rules}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Port Scan Detection}{2}{}%
+\contentsline {subsection}{\numberline {2.2}SSH Brute Force Detection}{3}{}%
+\contentsline {subsection}{\numberline {2.3}Custom Content Rule}{4}{}%
+\contentsline {section}{\numberline {3}Alert Analysis}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Alert 1: SSH Brute Force Attack}{6}{}%
+\contentsline {subsection}{\numberline {3.2}Alert 2: SQL Injection Attempt}{6}{}%
+\contentsline {subsection}{\numberline {3.3}Overview:}{7}{}%
+\contentsline {section}{\numberline {4}Reflection Questions}{7}{}%
+\contentsline {subsection}{\numberline {4.1}IDS \& Firewall:}{7}{}%
+\contentsline {subsection}{\numberline {4.2}False Positives:}{7}{}%
+\contentsline {subsection}{\numberline {4.3}The Target Lesson:}{7}{}%
