@@ -1,0 +1,3 @@
+In Lectures 17–18, we explored how intrusion-detection systems watch for suspicious patterns in network traffic that firewalls allow through. We learned about signature-based and anomaly-based detection, Snort rule syntax, and what happens when alerts go unread (the Target breach). Now it’s time to configure an IDS yourself.
+
+In this lab, you’ll install Snort on your Kali VM, write custom detection rules for three realistic scenarios, generate test traffic from your Ubuntu VM, and analyze the alerts Snort produces. This builds directly on the firewall rules you configured in Lab 07 — firewalls block known-bad traffic, IDS detects what gets through.
