@@ -150,7 +150,7 @@ sudo password for kali: \\
 
 \subsection {Alert 2: SQL Injection Attempt}
 \textbf{Alert Output:}\\
-03/30-17:30:42.169653 [**] [1:1000003:1] "SQL INJECTION DETECTED - SQL Keyword Found" [**] [Priority: 0] {TCP} 10.0.2.4:34166 -> 10.0.2.15:80\\
+03/30-17:30:42.169653 [**] [1:1000003:1] "SQL INJECTION DETECTED - SQL Keyword Found" [**] [Priority: 0] {TCP} 10.0.2.4:34166 -$>$ 10.0.2.15:80\\
 \ \\
 \textbf{Analysis:}
 {\singlespacing
@@ -179,12 +179,13 @@ sudo password for kali: \\
 \section{Reflection Questions}
 
 \subsection{IDS \& Firewall:}
-
+The IDS and firewall work on two different levels: the firewall watches who is communicating and from where, while the IDS is watching the activity of those allowed communications. The complimentary natures of this relation speaks for itself but it could be helpful to think of it in physical security terms. The firewall is the event security checking invitations and handbags while the IDS is the on the ground security watching for suspicious activity among the guests. \\ Firewalls allow port 22 because SSH is a legitimate and useful service. So every brute force attempt that we saw in the lab looks like a legitimate connection to the firewall. It's only because of Snort that we were able to detect the suspicious behavior because our rule recognized the repeated connection attempts from the same location, which the firewall did not.
 
 \subsection{False Positives:}
-\par The rule as it stands just alerts us to every ping that is detected, so we just have to turn it down a little. We can add itype:8 to match ICMP Echo Requests only and ignore router discovery and multicast traffic. Additionally, we can add detection\underbar{   }filter:track by\underbar{   }src, count 5, seconds 3 to the rule to only pay attention to multiple pings in quick succession from the same source.
+The rule as it stands just alerts us to every ping that is detected, so we just have to turn it down a little. We can add itype:8 to match ICMP Echo Requests only and ignore router discovery and multicast traffic. Additionally, we can add detection\underbar{   }filter:track by\underbar{   }src, count 5, seconds 3 to the rule to only pay attention to multiple pings in quick succession from the same source.
 
 \subsection{The Target Lesson:}
+Early in the lecture, we talked about processes and right there the last step is "tune". This seems like such a great idea for group of people that have to make decisions based of a constant stream of data all day. How could you not be fatigued? I like the idea of asking the question "how do we get less false positives tomorrow?" and tuning your rules to make that happen at the end of the shift. In theory, this should at the very least cut back on the number of decisions an analyst has to make in a day and should help with that fatigue.\\ More importantly, there needs to be a proper game plan in place at any organization, especially in security. The best security is no good if it doesn't respond (I think we mentioned mall security in class once). So, hard and fast rules for what to do, who does it, and when they do it needs to be in place and every employee needs to be trained on the material. If it's in the budget, drills should be concidered to make sure that staff is ready for the real event.
 
 \vfill
 \textit{++report written with (minimal) help from Claude (Sonnet 4.6)}

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1774924286.94083 "c:/Users/kasch/OneDrive/Desktop/Spring26/Defense/Lab08/Schoen_Keith_Lab08.tex" "Schoen_Keith_Lab08.pdf" "Schoen_Keith_Lab08" 1774924287.97309 0
+["pdflatex"] 1774930785.53538 "c:/Users/kasch/OneDrive/Desktop/Spring26/Defense/Lab08/Schoen_Keith_Lab08.tex" "Schoen_Keith_Lab08.pdf" "Schoen_Keith_Lab08" 1774930786.54652 0
   "C:/Users/kasch/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1773780835 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/kasch/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx1200.pk" 1774901400 15080 93c3f0c4b9d2dd4a0a324662fe13553f ""
   "C:/Users/kasch/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1772217087 14064 aa66c75a337173fdef1862a21ebcd3ed ""
@@ -64,10 +64,10 @@
   "C:/Users/kasch/AppData/Local/Programs/MiKTeX/tex/latex/tools/longtable.sty" 1761901070 16014 dfa4b4d4e04a78a3f05a90c19711737a ""
   "C:/Users/kasch/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1761901070 7243 a2c17f18e2c9b702b84fad03d5f9c78b ""
   "C:/Users/kasch/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "Schoen_Keith_Lab08.aux" 1774924287 1639 23391627fbcd7674721a8397d671411f "pdflatex"
-  "Schoen_Keith_Lab08.tex" 1774924286 10360 8735356ad1e473d8eaca5c6ae117143b ""
-  "Schoen_Keith_Lab08.toc" 1774924287 923 f597bc1a4aa962746a1f3d7eaf59b598 "pdflatex"
-  "c:/Users/kasch/OneDrive/Desktop/Spring26/Defense/Lab08/Schoen_Keith_Lab08.tex" 1774924286 10360 8735356ad1e473d8eaca5c6ae117143b ""
+  "Schoen_Keith_Lab08.aux" 1774930786 1640 606508a9565c107aa963b733007f684b "pdflatex"
+  "Schoen_Keith_Lab08.tex" 1774930784 12212 c6083e78aec0baa5ec86baca38adaaab ""
+  "Schoen_Keith_Lab08.toc" 1774930786 923 c7ce7436aa6ac4ce2fd726d6d119588f "pdflatex"
+  "c:/Users/kasch/OneDrive/Desktop/Spring26/Defense/Lab08/Schoen_Keith_Lab08.tex" 1774930784 12212 c6083e78aec0baa5ec86baca38adaaab ""
   "images/d1.1.png" 1774900834 258463 bfde1587a6b14fbe4ce2123adb5cacbf ""
   "images/d2.1.png" 1774900906 273809 90a3a6ce87d7402866e6156eed43249e ""
   "images/d2.2.png" 1774900993 193501 d7c9178628887b0e311594ecb8aaaaf2 ""
